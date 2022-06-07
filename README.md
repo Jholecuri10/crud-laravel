@@ -1,2 +1,2 @@
-# crud-laravel
+# crud-PHP
 Prueba de desarrollo en PHP
